@@ -74,13 +74,6 @@ Co-Advisors:
 
 ---
 
-## Getting Started
-1. Review the architecture diagrams in `/architecture`.  
-2. Read the system assumptions in `/docs/assumptions-&-constraints.md`.  
-3. Explore the workflow models to understand the attack chain.  
-4. Use the FYP slides for quick understanding and presentation use.
-
----
 
 ## Disclaimer
 This research framework is provided for **educational and defensive cybersecurity purposes only**.  
