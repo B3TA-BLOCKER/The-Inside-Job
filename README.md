@@ -1,5 +1,4 @@
-# The-Inside-Job-Stealthy-Hardware-Assisted-Malware-Deployment-for-Red-Team-Operations
-
+# The Inside Job – Hardware-Assisted Malware Deployment Framework for Red Team Operations
 
 ## Overview
 **The Inside Job** is a hardware-assisted red-team simulation framework designed for academic and research use.  
